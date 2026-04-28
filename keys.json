@@ -108,7 +108,8 @@
         "ZERO-20D-75WnI19Adh": {
             "expiry": "2026\/05\/18 16:14",
             "devices": [
-                "c6078c7ecb3b802b"
+                "c6078c7ecb3b802b",
+                "e644392b39b51cb4"
             ],
             "limit": 50
         }
